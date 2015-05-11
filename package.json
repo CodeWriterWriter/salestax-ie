@@ -1,0 +1,25 @@
+{
+  "name": "salestax-ie",
+  "version": "1.0.0",
+  "description": "salestax-ie",
+  "main": "salestax-ie.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/senecajs/salestax-ie.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/senecajs/salestax-ie/issues"
+  },
+  "homepage": "https://github.com/senecajs/salestax-ie",
+  "dependencies": {
+    "seneca": "^0.6.1"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.4"
+  }
+}
